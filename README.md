@@ -7,10 +7,7 @@ The WP Freelancer Client Panel started as a simple concept in 2009. After puttin
 _License is available online at http://wp-freelancer-client-panel.mit-license.org._
 
 *The MIT License (MIT)*
-<<<<<<< HEAD
 
-=======
->>>>>>> dd251e686482c88ac3a7331f4828b5605dfb0992
 Copyright (c) 2011 Wordpress Freelancer Client Panel <support@icodeclarity.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
